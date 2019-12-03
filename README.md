@@ -17,6 +17,7 @@ Included in Input_working_w_extra_joysticks.ini:
 + THRUSTMASTER T-Flight Hotas X Flight Stick (needs testing and feedback)
 + Microsoft SideWinder Precision 2 (needs testing and feedback)
 + Microsoft SideWinder Precision Pro (needs testing and feedback)
++ Saitek X52 (needs testing and feedback)
 
 
 
