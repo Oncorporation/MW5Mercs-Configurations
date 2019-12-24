@@ -1,0 +1,23 @@
+START_BIND
+NAME: Nostromo n52 Speedpad2
+VID: 0x050D
+PID: 0x0815
+BUTTON: InButton=GenericUSBController_Button1, OutButtons=Throttle_Button1
+BUTTON: InButton=GenericUSBController_Button2, OutButtons=Gamepad_LeftShoulder
+BUTTON: InButton=GenericUSBController_Button3, OutButtons=Gamepad_FaceButton_Top
+BUTTON: InButton=GenericUSBController_Button4, OutButtons=Gamepad_RightShoulder
+BUTTON: InButton=GenericUSBController_Button5, OutButtons=Throttle_Button5
+BUTTON: InButton=GenericUSBController_Button6, OutButtons=Gamepad_FaceButton_left
+BUTTON: InButton=GenericUSBController_Button7, OutButtons=Gamepad_Special_Left
+BUTTON: InButton=GenericUSBController_Button8, OutButtons=Gamepad_FaceButton_Bottom
+BUTTON: InButton=GenericUSBController_Button9, OutButtons=Gamepad_Special_Right
+BUTTON: InButton=GenericUSBController_Button10, OutButtons=Gamepad_FaceButton_Right
+BUTTON: InButton=GenericUSBController_Button11, OutButtons=Throttle_Button11
+BUTTON: InButton=GenericUSBController_Button12, OutButtons=Throttle_Button12
+BUTTON: InButton=GenericUSBController_Button13, OutButtons=Gamepad_DPad_Up
+BUTTON: InButton=GenericUSBController_Button14, OutButtons=Gamepad_DPad_Down
+BUTTON: InButton=GenericUSBController_Button15, OutButtons=Gamepad_DPad_Left
+BUTTON: InButton=GenericUSBController_Button16, OutButtons=Gamepad_DPad_Right
+AXIS: InAxis=HOTAS_XAxis, OutAxis=Gamepad_RightX, Invert=FALSE, Offset=-0.498039, DeadZoneMin=-0.1, DeadZoneMax=0.1, MapToDeadZone=FALSE
+AXIS: InAxis=HOTAS_RZAxis, OutAxis=Gamepad_LeftTriggerAxis, Invert=FALSE, Offset=-0.5, DeadZoneMin=-0.2, DeadZoneMax=0.2, MapToDeadZone=TRUE
+AXIS: InAxis=HOTAS_YAxis, OutAxis=Gamepad_RightY, Invert=FALSE, Offset=-0.498039, DeadZoneMin=-0.3, DeadZoneMax=0.3, MapToDeadZone=TRUE
